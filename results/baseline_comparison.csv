@@ -1,0 +1,5 @@
+method,val_flag_pct,R80711_suspect_flagged_pct,other3_test_flagged_pct
+LSTM-AE,1.0,52.3,2.3
+Z-score,1.0,10.2,0.7
+PCA,1.0,2.5,1.7
+IsolationForest,1.0,1.8,1.5

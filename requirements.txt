@@ -1,0 +1,8 @@
+pyspark==4.0.4
+torch
+numpy
+pandas
+pyarrow
+scikit-learn
+matplotlib
+joblib
